@@ -6,14 +6,13 @@ A machine learning project that predicts a user's ideal music energy by analyzin
 
 New streaming platforms often struggle to recommend the right music to GenZ users without prior listening history, which frequently leads to poor recommendations, user frustration, and app abandonment. Traditional recommendation algorithms heavily prioritize physical listening history, frequently neglecting the psychographic traits and current moods that dictate immediate music choices. 
 
-This project leverages machine learning to analyze a primary dataset of daily habits, personality traits, and moods—such as lifestyle pace, empathy levels, and listening context—to predict a user's preferred music energy. By identifying the psychological factors that drive music preferences, this project provides a robust solution to the recommendation "cold-start" problem applicable to modern digital platforms.
+This project leverages machine learning to analyze a primary dataset of daily habits, personality traits, and moods such as lifestyle pace, empathy level, listening context, etc. to predict a user's preferred music energy. By identifying the psychological factors that drive music preferences, this project provides a robust solution to the recommendation "cold-start" problem applicable to modern digital platforms.
 
 ## ✨ Key Features
 
-* **Primary Data Collection & EDA:** Analyzed a structured survey dataset with a specific demographic emphasis on GenZ (ages 14 to 29) to capture modern metrics like lifestyle pace, listening mood, empathy level, and personality types.
+* **Primary Data Collection & EDA:** Analyzed a structured survey dataset with a specific demographic emphasis on GenZ (ages 14 to 29) to capture modern metrics like lifestyle pace, listening mood, empathy level, etc.
 * **Extensive Model Comparison:** Evaluated and optimized six machine learning classifiers (Random Forest, Support Vector Machine, Logistic Regression, Gaussian Naive Bayes, K-Nearest Neighbors, Decision Tree) using `GridSearchCV`.
 * **Custom "Overfitting Gap" Validation:** Implemented a rigorous validation framework that mathematically defined an overfitting threshold to guarantee model reliability and real-world generalizability.
-* **Synthetic Persona Testing:** Validated the final model against custom synthetic user profiles (e.g., "The Energetic Gym-Goer," "The Sad & Empathetic Listener") to ensure logical, real-world mapping of psychographic profiles to music energy predictions.
 
 ## 📊 Key Findings & Results
 
