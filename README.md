@@ -27,3 +27,12 @@ This project leverages machine learning to analyze a primary dataset of daily ha
 * **Data Manipulation & Analysis:** NumPy & Pandas
 * **Machine Learning:** Scikit-Learn (Model implementations, `GridSearchCV`, `LabelEncoder`, `StandardScaler`)
 * **Data Visualization:** Matplotlib & Seaborn
+
+## 📃 Research Paper
+
+Click to view the paper!
+<div align="center">
+  <a href="https://drive.google.com/file/d/1_qExF5o2GwlcQHQy9Omhrpy8HVIay4GH/view?usp=drive_link">
+    <img src="Music_Energy_Prediction_Logo.jpg" alt="Click to Watch" style="width:100%;">
+  </a>
+</div>
