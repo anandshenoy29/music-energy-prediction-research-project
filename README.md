@@ -1,4 +1,4 @@
-# 🎵 Predicting GenZ Music Energy Via Psychographic And Behavioural Indicator Analysis Using Machine Learning
+# 🎵 Music Energy Prediction
 
 A machine learning project that predicts a user's ideal music energy by analyzing psychographic traits and daily behavioural habits. This research shifts the focus from traditional historical listening patterns to psychological indicators, providing a data-driven foundation for personalized "cold-start" recommendations on music streaming platforms.
 
