@@ -33,6 +33,6 @@ This project leverages machine learning to analyze a primary dataset of daily ha
 Click to view the paper!
 <div align="center">
   <a href="https://drive.google.com/file/d/1_qExF5o2GwlcQHQy9Omhrpy8HVIay4GH/view?usp=drive_link">
-    <img src="Music_Energy_Prediction_Logo.jpg" alt="Click to Watch" style="width:100%;">
+    <img src="music-energy-prediction-research-project-paper.jpg" alt="Click to Watch" style="width:100%;">
   </a>
 </div>
